@@ -1,0 +1,15 @@
+{
+  "name": "002-typescript",
+  "version": "1.0.0",
+  "description": "Подготовка рабочей среды, написать абстрактный класс BooksRepository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
